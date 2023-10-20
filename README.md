@@ -16,9 +16,11 @@
 > sudo apt-get update && sudo apt-get full-upgrade -y # All in One! 
 ```
 
-- 리포를 굳이 카카오로 바꿀 필요는 없을 듯? 
+- 리포 소스를 굳이 카카오로 바꿀 필요는 없을 듯? 
 
 ### zsh and ...
+
+- zsh이 기본으로 잡혀 있는 듯 싶다. 아니라면 아래 참고. 
 
 ```bash
  install required packages
